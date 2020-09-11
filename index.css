@@ -1,4 +1,6 @@
 @charset "utf-8";
+@import url("../../../Downloads/DZUX-20200911T002236Z-001/DZUX/index.css");
+@import url("index.css");
 /* CSS Document */
 *{margin: 0px;
 padding: 0px;}
@@ -469,21 +471,26 @@ padding-top:10vh}
 	height: 33vh;
 	width: 25%;
 	float: left;
-	background-image: url(../../../Downloads/DZUX-20200911T002236Z-001/DZUX/Perfect-gif-loop-from-KDA-POPSTARS-leagueoflegends.gif);
+	background-image: url("Perfect-gif-loop-from-KDA-POPSTARS-leagueoflegends.gif")
+;
 	margin-left: 7.5%;
 	background-size: cover;
 }
 .trai1{
 	height: 33vh;
 	width: 25%;
-	background-image: url("../../../Downloads/DZUX-20200911T002236Z-001/DZUX/tenor.gif");
+	background-image: url("tenor.gif");
+;
 	background-size: cover;
 	float: left;
  margin: 0px 5%;
 }.trai2{
 	height: 33vh;
 	width: 25%;
-	background-image: url("../../../Downloads/DZUX-20200911T002236Z-001/DZUX/SkeletalMessyCony-size_restricted.gif");
+	background-image: url("SkeletalMessyCony-size_restricted.gif");
+;
+;
+;
 	background-size: cover;
 	float: right;
 	margin-right: 7.5%
@@ -497,14 +504,14 @@ padding-top:10vh}
 	height: 33vh;
 	width: 25%;
 	float: left;
-	background-image: url("../../../Downloads/DZUX-20200911T002236Z-001/DZUX/2c3736aa705fc91e770fcfe480b05561.gif");
+	background-image: url("2c3736aa705fc91e770fcfe480b05561.gif");
 	margin-left: 7.5%;
 	background-size: cover;
 }
 .phai2{
 	height: 33vh;
 	width: 25%;
-	background-image: url("../../../Downloads/DZUX-20200911T002236Z-001/DZUX/748580a5dcb463cd751fa62b2aa38b40.gif");
+	background-image: url("748580a5dcb463cd751fa62b2aa38b40.gif");
 	background-size: cover;
 	float: left;
  margin: 0px 5%
@@ -512,7 +519,7 @@ padding-top:10vh}
 .phai3{
 	height: 33vh;
 	width: 25%;
-	background-image: url("../../../Downloads/DZUX-20200911T002236Z-001/DZUX/Alkali_02.gif");
+	background-image: url("Alkali_02.gif");
 	background-size: cover;
 	float: right;
 	margin-right: 7.5%
